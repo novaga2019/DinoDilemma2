@@ -76,6 +76,6 @@ DerivedDataCache/*
 # Custom Added Content
 DinosaurDilemma/Content/StarterContent/
 DinosaurDilemma/Content/ThirdPersonBP/Maps/Outer_Map.umap
-DinosaurDilemma/Content/ThirdPersonBP/Maps/Outer_Map_BuildData.uasset
+DinosaurDilemma/Content/ThirdPersonBP/Maps/Outer_Map_BuiltData.uasset
 DinosaurDilemma/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap1.umap
-DinosaurDilemma/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap1_BuildData.uasset
+DinosaurDilemma/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap1_BuiltData.uasset
